@@ -1,0 +1,8 @@
+blue = "~b~"
+green = "~g~"
+red = "~r~"
+yellow = "~y~"
+orange = "~o~"
+purple = "~p~"
+pink = "~q~"
+darkblue = "~d~"
